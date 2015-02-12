@@ -18,11 +18,11 @@ h2 {
 		font-size: 100%;
 }
 
-#bolded {
+.bolded {
 		font-weight: bold;
 }
 
-#italic {
+.italic {
 		font-style: italic;
 } 
 
