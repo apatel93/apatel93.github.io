@@ -1,0 +1,31 @@
+body {
+		font-family: Cambria;
+		color: #000000;
+}
+
+h1 {
+		font-size: 250%;
+		text-align: center;
+}
+
+h2 {
+		font-size: 125%;
+		text-align: left;
+}
+
+#contact {
+		text-align: center;
+		font-size: 100%;
+}
+
+#bolded {
+		font-weight: bold;
+}
+
+#italic {
+		font-style: italic;
+} 
+
+#centered {
+		text-align: center;
+		}
